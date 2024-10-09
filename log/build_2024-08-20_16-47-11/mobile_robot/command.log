@@ -1,0 +1,4 @@
+Invoking command in '/home/tony/ws_mobile/build/mobile_robot': /usr/bin/cmake --build /home/tony/ws_mobile/build/mobile_robot -- -j4 -l4
+Invoked command in '/home/tony/ws_mobile/build/mobile_robot' returned '0': /usr/bin/cmake --build /home/tony/ws_mobile/build/mobile_robot -- -j4 -l4
+Invoking command in '/home/tony/ws_mobile/build/mobile_robot': /usr/bin/cmake --install /home/tony/ws_mobile/build/mobile_robot
+Invoked command in '/home/tony/ws_mobile/build/mobile_robot' returned '0': /usr/bin/cmake --install /home/tony/ws_mobile/build/mobile_robot
